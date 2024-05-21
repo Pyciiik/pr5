@@ -1,0 +1,16 @@
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+td {
+    border: 1px dashed black;
+    text-align: center;
+    vertical-align: middle;
+    padding: 10px;
+}
+.visit-card {
+    width: 100%;
+}
+.visit-card img {
+    max-width: 50px;
+}
